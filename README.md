@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/16e52569-c279-443d-af6f-dfab4ab5b5d8.svg)](https://wakatime.com/@16e52569-c279-443d-af6f-dfab4ab5b5d8)
+
+
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=I+am+cool+typing+line;I+will+make+you+successful;Trust+me.;And+give+me+your+money;Now!!!)]()
