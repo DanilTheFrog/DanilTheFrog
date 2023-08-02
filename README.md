@@ -10,7 +10,7 @@ Does anyone know how to remove this line? It talks to me every day and scares me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&color=F7290A&background=FFFFFF00&width=435&lines=SHUT+UP;(%E2%97%A3_%E2%97%A2))]()
 
 
-[![Joloy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joloy)](https://github.com/anuraghazra/github-readme-stats)
+[![Joloy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joloy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Joloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilTheFrog&show_icons=true&theme=radical)
 -->
