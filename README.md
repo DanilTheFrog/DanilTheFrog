@@ -5,7 +5,7 @@
 
 
 
-[![Joloy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joloy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Joloy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joloy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Joloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilTheFrog&show_icons=true&theme=radical)
 -->
